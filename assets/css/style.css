@@ -1,0 +1,62 @@
+.contact-container{
+    padding: 20px 10px 10px 10px;
+    
+}
+.contact-main{
+    width: 100%;
+    border: 1px solid #c0c0bf;
+    padding:10px;
+    border-radius: 5px;
+}
+
+.host-main{
+    width: 100%;
+    border: 1px solid #c3e3b5;
+    border-radius: 5px;
+    padding-left:0px;
+    padding-right:0px;
+    padding-bottom:10px;
+}
+
+.host-title{
+    background-color: #dff0d8;
+    color:#457b63;
+    padding:15px 15px 15px 15px;
+    margin-bottom: 5px;
+}
+.remote-main{
+    width: 100%;
+    border: 1px solid #f4e7a4;
+    border-radius: 5px;
+    padding-left:0px;
+    padding-right:0px;
+    padding-bottom:10px;
+}
+.remote-title{
+    background-color: #f9f3d2;
+    color:#917a4e;
+    padding:15px 15px 15px 15px;
+    margin-bottom: 5px;
+}
+.subtitle{
+    background-color: #d9edf7;
+    color:#3c7996;
+    padding:10px 15px 10px 15px;
+}
+
+.submain{
+    width: 100%;
+    border: 1px solid #c0c0bf;
+    border-radius: 5px;
+    padding-left:0px;
+    padding-right:0px;
+}
+
+.check-label{
+    font-weight: bold;
+    
+}
+
+.disabled-elem {
+    width : 100%;
+}
